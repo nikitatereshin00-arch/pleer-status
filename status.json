@@ -1,6 +1,11 @@
 {
   "v": 1,
-  "generated_at": 1795376555,
-  "installs": {},
-  "sig": "rY3H2xz6J2ZEzFooR7dGL7d9IEJJubFHmZbX1dPqr-xbqTQC5efBURuMBli2HjG1rNNwxKvFtwyn8cp9pfOUDA"
+  "generated_at": 1795387360,
+  "installs": {
+    "f351d207c1d69533daa55a2b2aabee29d820bc1e1bd145bb9ece560c0c14e9c1": {
+      "status": "ok",
+      "expires_at": 1796596960
+    }
+  },
+  "sig": "hY7TldXgg3Ifn148KBgr4KXwlL6PjTHLAgdqjn6sG3VbZa_M6z6nZYfQxs9Bs4U3MRrWelojPB2dkjmrH9giAA"
 }
